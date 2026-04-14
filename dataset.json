@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "All verified restaurant listings in Jacksonville, North Carolina. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
+  "config_name": "All Restaurants in Jacksonville, North Carolina, US",
+  "export_job_id": "12da9087-6f75-43fd-88d5-08d87c9c1ae3",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 625273,
+  "location_name": "Jacksonville",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-jacksonville-north-carolina-us-sample-625273",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/625273/beamstation_625273_restaurants-us-nc_SAMPLE_DIST.csv",
+  "sample_pct": 7.81,
+  "sample_records": 25,
+  "sample_sha256": "6bb21c5a28f043c9cd6cdd665aee035e34c94825958c22b796a46f179bbe4474",
+  "sample_size_bytes": 116102,
+  "total_records": 320,
+  "updated_at": "2026-03-31T15:28:39.589722+00:00"
+}
