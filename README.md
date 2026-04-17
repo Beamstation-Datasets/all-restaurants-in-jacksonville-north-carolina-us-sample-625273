@@ -1,6 +1,6 @@
 # All Restaurants in Jacksonville, North Carolina, US
 
-> Free BeamStation sample export with 25 rows and masked direct-contact fields.
+> Free BeamStation sample export with 32 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `625273` |
 | Location | Jacksonville |
 | Category | Restaurants |
-| Full dataset size | 320 records |
-| Free sample size | 25 records (7.81%) |
-| Last export | 2026-03-31T15:28:39.589722+00:00 |
+| Full dataset size | 327 records |
+| Free sample size | 32 records (9.79%) |
+| Last export | 2026-04-14T16:13:22.580794+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-jacksonville-north-carolina-us-sample-625273/releases/download/sample-latest/beamstation_625273_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
