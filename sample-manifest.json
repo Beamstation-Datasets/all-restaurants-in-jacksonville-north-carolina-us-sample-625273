@@ -1,12 +1,12 @@
 {
-  "export_job_id": "f2aef7a6-dfc6-4c78-b7be-b685dc78db55",
+  "export_job_id": "ee35a533-75fd-49fb-87cd-8b280c81622b",
   "id_short": 625273,
-  "published_at": "2026-04-21T19:37:36Z",
+  "published_at": "2026-04-28T19:46:10Z",
   "repo_name": "all-restaurants-in-jacksonville-north-carolina-us-sample-625273",
   "sample_asset_name": "beamstation_625273_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/625273/beamstation_625273_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 40,
-  "sample_sha256": "a10ee125f8eb61304ef8d4aa923e2d6bbb0b647875dfcba284feaa1fedddfdd8",
-  "sample_size_bytes": 148161,
-  "total_records": 407
+  "sample_records": 39,
+  "sample_sha256": "ce58f45d242889951c65849eb70e7b3fce0dc29b1bd0175f8de44ede8eaa00ed",
+  "sample_size_bytes": 137773,
+  "total_records": 397
 }
